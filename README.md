@@ -1,7 +1,11 @@
-[![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=ybAlr2Uy&id=F2A1B610B481A5E87D82746859CBCEAD8E22327C&thid=OIP.ybAlr2UyiOiwaq3rwsVGjgHaEK&mediaurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F1947431.jpg&exph=1080&expw=1920&q=web+developer+image&simid=608013132951075176&form=IRPRST&ck=9D8B21B38937F8B0C8A457135869C00B&selectedindex=60&vt=0&sim=11)](https://keshavjha.io)
+
+![github](https://user-images.githubusercontent.com/112645121/213100580-27c41446-c21d-44ee-b7ff-7e4a31ecc6ac.gif)
+
 <h1 align="center">Hi 👋, I'm keshav jha</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2FTheDudeThatCode%2FTheDudeThatCode%2Fmaster%2FAssets%2FDeveloper.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&tbnid=47chckvIQOvI5M&vet=12ahUKEwivuODVoMr8AhUXjtgFHdOoB7gQMyhIegUIARClAQ..i&docid=CJdgcKdcN0j58M&w=243&h=177&q=animated%20coding%20gif&ved=2ahUKEwivuODVoMr8AhUXjtgFHdOoB7gQMyhIegUIARClAQ">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/112645121/213100923-5b225bd3-b2eb-4e9f-b486-a5f2e7ea1ae9.png">
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavjha005&label=Profile%20views&color=0e75b6&style=flat" alt="keshavjha005" /> </p>
