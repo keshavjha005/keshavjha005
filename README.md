@@ -1,4 +1,4 @@
-![github](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPotential17%2FPotential17&psig=AOvVaw0JCDzyF2q9SF9hn3ZELusb&ust=1735473421309000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDG08O0yooDFQAAAAAdAAAAABAE)
+![github]()
 [![keshavjha005's GitHub | Dependencies](https://stats.quine.sh/keshavjha005/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=keshavjha005)
 [![keshavjha005's GitHub | Stats](https://stats.quira.sh/keshavjha005/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=keshavjha005)
 <h1 align="center">Hi 👋, I'm keshav jha</h1>
