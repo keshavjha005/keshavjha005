@@ -1,10 +1,11 @@
 <!-- Beautiful GitHub README for keshavjha005 -->
 
-[![Dependencies](https://stats.quine.sh/keshavjha005/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=keshavjha005)
-[![Stats](https://stats.quine.sh/keshavjha005/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=keshavjha005)
+<!-- Badges -->
+[![Profile Views](https://komarev.com/ghpvc/?username=keshavjha005&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/keshavjha005)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=keshavjha005.keshavjha005)
 
 <p align="center">
-  <img src="https://chatgpt.com/s/m_686ea15874a48191bf0d4b0688b7df27" alt="Keshav Jha Banner" />
+  <img src="https://raw.githubusercontent.com/<keshavjha005 >/<repo>/main/assets/banner.png" alt="Keshav Jha Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Keshav Jha</h1>
@@ -17,11 +18,6 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/112645121/213100923-5b225bd3-b2eb-4e9f-b486-a5f2e7ea1ae9.png" alt="coding" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keshavjha005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=keshavjha005.keshavjha005" alt="visitors" />
 </p>
 
 ---
@@ -48,21 +44,8 @@
 <h3 align="center">🛠️ Languages and Tools</h3>
 
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" /></a>
-  <a href="https://kotlinlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" /></a>
-  <a href="https://dart.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" /></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" /></a>
-  <a href="https://www.photoshop.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" /></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" /></a>
+  <!-- Icons (React, Next, Node etc.) -->
+  ...
 </p>
 
 ---
