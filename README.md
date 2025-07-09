@@ -3,6 +3,10 @@
 [![Dependencies](https://stats.quine.sh/keshavjha005/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=keshavjha005)
 [![Stats](https://stats.quine.sh/keshavjha005/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=keshavjha005)
 
+<p align="center">
+  <img src="https://chatgpt.com/s/m_686ea15874a48191bf0d4b0688b7df27" alt="Keshav Jha Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Keshav Jha</h1>
 
 <p align="center">
