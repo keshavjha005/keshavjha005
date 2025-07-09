@@ -2,11 +2,11 @@
 [![keshavjha005's GitHub | Dependencies](https://stats.quine.sh/keshavjha005/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=keshavjha005)
 [![keshavjha005's GitHub | Stats](https://stats.quira.sh/keshavjha005/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=keshavjha005)
 <h1 align="center">Hi 👋, I'm keshav jha</h1>
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things&font=Fira%20Code¢er=true&width=380&hei
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things&font=Fira%20Code¢er=true&width=380&hei]
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/112645121/213100923-5b225bd3-b2eb-4e9f-b486-a5f2e7ea1ae9.png">
 
-![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]
 
 
 
