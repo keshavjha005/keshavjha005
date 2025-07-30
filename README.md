@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things&center=true&width=380&height=45&color=58A6FF&vCenter=true&size=22">
 </p>
 
-<h3 align="center">A passionate web developer from India 🇮🇳</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/112645121/213100923-5b225bd3-b2eb-4e9f-b486-a5f2e7ea1ae9.png" alt="coding" width="400"/>
