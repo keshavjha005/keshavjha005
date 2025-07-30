@@ -4,9 +4,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=keshavjha005&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/keshavjha005)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=keshavjha005.keshavjha005)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/<keshavjha005 >/<repo>/main/assets/banner.png" alt="Keshav Jha Banner" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Keshav Jha</h1>
 
