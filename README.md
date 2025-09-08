@@ -10,19 +10,6 @@
   <img src="https://user-images.githubusercontent.com/112645121/213100923-5b225bd3-b2eb-4e9f-b486-a5f2e7ea1ae9.png" alt="coding" width="400"/>
 </p>
 
----
-
-## ☕ Buy Me a Coffee  
-
-<p align="center">
-  <a href="https://buymeacoffee.com/jharajiv92n" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1kp4gjn7uDDq3OKDwz8A94bWATDb5wRpV" alt="Scan QR" width="200"/>
-</p>
 
 ---
 
