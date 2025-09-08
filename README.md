@@ -60,7 +60,7 @@ DSA • OS • CN • CRUD • RESTful API • Agile • HLD • LLD • SDLC �
 ---
 
 ### 🗄️ Database  
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
