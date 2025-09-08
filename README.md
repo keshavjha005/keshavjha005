@@ -10,6 +10,26 @@
   <img src="https://user-images.githubusercontent.com/112645121/213100923-5b225bd3-b2eb-4e9f-b486-a5f2e7ea1ae9.png" alt="coding" width="400"/>
 </p>
 
+### 🔗 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/keshavjha005" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfolio-keshav-eight.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://hashnode.com/@keshavBlog" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white" />
+  </a>
+  <a href="https://author.envato.com/profile/onboarding" target="_blank">
+    <img src="https://img.shields.io/badge/Envato-82B541?logo=envato&logoColor=white" />
+  </a>
+  <a href="https://www.buymeacoffee.com/jharajiv92n" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF813F?logo=buy-me-a-coffee&logoColor=white" />
+  </a>
+</p>
+
+
 
 ---
 
