@@ -23,14 +23,10 @@
 - 💬 Ask me about **React, Next.js, Node.js, Django, or anything web-related!**
 - 🌱 Currently learning **AI, DevOps, and advanced backend architectures**
 - 📫 How to reach me: **jhakeshavkumar62093@gmail.com**
+- 🍵 Buy a coffee for me : **buymeacoffee.com/jharajiv92n**
 
 ---
 
-
-<h4 Buy a Coffee For Me !  <a href="buymeacoffee.com/jharajiv92n" target="blank">
-    src="<img width="700" height="700" alt="bmc_qr" src="https://github.com/user-attachments/assets/f4b58f86-dfd2-4687-86d9-982844988a3d" />
-  </a>
-</h4>
 
 <p align="center">
   <a href="https://linkedin.com/in/keshavjha005" target="blank">
