@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://buymeacoffee.com/jharajiv92n" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
+    <img src="https://drive.google.com/file/d/1kp4gjn7uDDq3OKDwz8A94bWATDb5wRpV/view?usp=sharing" height="50" alt="Buy Me A Coffee" />
   </a>
 </p>
 
@@ -128,10 +128,7 @@ DSA • OS • CN • CRUD • RESTful API • Agile • HLD • LLD • SDLC �
   <img src="https://github-profile-trophy.vercel.app/?username=keshavjha005&theme=tokyonight&row=1&column=7" />
 </p>
 
-<p align="center">
-  ⭐ <b>500+ GitHub Stars</b> • 🍴 <b>100+ Forks</b> • 👨‍💻 <b>200+ Commits this month</b> <br/>
-  🌍 <b>Contributions in 15+ repositories</b> • 🏅 <b>Top 5% on Stack Overflow (fake 😜)</b>
-</p>
+
 
 ---
 
