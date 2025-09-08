@@ -26,7 +26,11 @@
 
 ---
 
-<h3 align="center">Connect with me 🌍</h3>
+
+<h4 Buy a Coffee For Me !  <a href="buymeacoffee.com/jharajiv92n" target="blank">
+    src="<img width="700" height="700" alt="bmc_qr" src="https://github.com/user-attachments/assets/f4b58f86-dfd2-4687-86d9-982844988a3d" />
+  </a>
+</h4>
 
 <p align="center">
   <a href="https://linkedin.com/in/keshavjha005" target="blank">
