@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1kp4gjn7uDDq3OKDwz8A94bWATDb5wRpV/view?usp=sharing" alt="Scan QR" width="200"/>
+  <img src="https://drive.google.com/uc?export=view&id=1kp4gjn7uDDq3OKDwz8A94bWATDb5wRpV" alt="Scan QR" width="200"/>
 </p>
 
 ---
