@@ -23,7 +23,7 @@ DSA • OS • CN • CRUD • RESTful API • Agile • HLD • LLD • SDLC �
 ---
 
 ### 💻 Languages  
-<p align="center">
+<p align="">
 <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
@@ -36,7 +36,7 @@ DSA • OS • CN • CRUD • RESTful API • Agile • HLD • LLD • SDLC �
 ---
 
 ### 🎨 Frontend  
-<p align="center">
+<p align="">
 <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
@@ -50,7 +50,7 @@ DSA • OS • CN • CRUD • RESTful API • Agile • HLD • LLD • SDLC �
 ---
 
 ### ⚙️ Backend  
-<p align="center">
+<p align="">
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
@@ -61,14 +61,16 @@ DSA • OS • CN • CRUD • RESTful API • Agile • HLD • LLD • SDLC �
 
 ### 🗄️ Database  
 <p align="center">
-<img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-FF6C37?logo=nosql&logoColor=white" />
 </p>
 
 ---
 
 ### 🧪 Testing  
-<p align="center">
+<p align="">
 <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
 <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" />
 <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" />
@@ -78,7 +80,7 @@ DSA • OS • CN • CRUD • RESTful API • Agile • HLD • LLD • SDLC �
 ---
 
 ### 🛠️ Tools  
-<p align="center">
+<p align="">
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
@@ -101,10 +103,7 @@ DSA • OS • CN • CRUD • RESTful API • Agile • HLD • LLD • SDLC �
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keshavjha005&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=keshavjha005&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavjha005&layout=compact&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavjha005&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
