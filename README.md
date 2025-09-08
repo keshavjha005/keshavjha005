@@ -16,12 +16,12 @@
 
 <p align="center">
   <a href="https://buymeacoffee.com/jharajiv92n" target="_blank">
-    <img src="https://drive.google.com/file/d/1kp4gjn7uDDq3OKDwz8A94bWATDb5wRpV/view?usp=sharing" height="50" alt="Buy Me A Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
   </a>
 </p>
 
 <p align="center">
-  <img src="./0e83043a-18d7-461c-a20b-c2ba7b574357.png" alt="Scan QR" width="200"/>
+  <img src="https://drive.google.com/file/d/1kp4gjn7uDDq3OKDwz8A94bWATDb5wRpV/view?usp=sharing" alt="Scan QR" width="200"/>
 </p>
 
 ---
