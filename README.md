@@ -132,8 +132,25 @@ DSA • OS • CN • CRUD • RESTful API • Agile • HLD • LLD • SDLC �
 
 ---
 
-<h3 align="center">💥 Keep exploring, keep building! 💥</h3>
+## ☕ Support & Motivation  
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="50%">
+  
+  <h3>☕ Buy Me a Coffee</h3>
+  <a href="https://buymeacoffee.com/jharajiv92n" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
+  </a>
+  <br/><br/>
+  <img src="https://drive.google.com/uc?export=view&id=1kp4gjn7uDDq3OKDwz8A94bWATDb5wRpV" alt="Scan QR" width="200"/>
+  
+</td>
+<td align="center" width="50%">
+  
+  <h3>💥 Keep exploring, keep building! 💥</h3>
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
-</p>
+  
+</td>
+</tr>
+</table>
