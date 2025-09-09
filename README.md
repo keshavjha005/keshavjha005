@@ -3,11 +3,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Keshav+Jha;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things">
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keshavjha005&label=Profile%20Views&color=blue&style=flat&abbreviated=true&count=5000" />
+mg src="https://komarev.com/ghpvc/?username=keshavjha005&label=Profile%20Views&color=blue&style=flat&abbreviated=true&count=5000" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-5000+-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Profile%20Views-5000-blue?style=flat" />
 </p>
 
 <h3 align="center">🚀 A passionate Web Developer from India</h3>
