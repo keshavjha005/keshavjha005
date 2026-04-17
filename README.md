@@ -127,12 +127,12 @@ DSA • OS • CN • CRUD • RESTful API • Agile • HLD • LLD • SDLC �
 ## 🔥 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshavjha005&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=keshavjha005&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=keshavjha005&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=keshavjha005&theme=tokyonight&cache_seconds=1800" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshavjha005&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshavjha005&theme=tokyo-night&cache_seconds=1800" />
 </p>
 ---
 
