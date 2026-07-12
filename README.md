@@ -157,12 +157,12 @@ const keshav = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=keshavjha005&show_icons=true&count_private=true&rank_icon=github&hide_border=false&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&border_color=00FF41&cache_seconds=1800" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=keshavjha005&show_icons=true&count_private=true&rank_icon=github&hide_border=false&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&border_color=00FF41&cache_seconds=1800" />
 <img height="170" src="https://streak-stats.demolab.com?user=keshavjha005&hide_border=false&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=00FF41" />
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavjha005&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00FF41" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=keshavjha005&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00FF41" />
 
 <br/><br/>
 
@@ -173,11 +173,19 @@ const keshav = {
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keshavjha005/keshavjha005/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keshavjha005/keshavjha005/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/keshavjha005/keshavjha005/output/github-snake.svg" />
-  </picture>
+
+<code>📅 <!--SNAKE_RANGE-->13 Jul 2025  →  12 Jul 2026<!--/SNAKE_RANGE--></code>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/last-commit/keshavjha005/keshavjha005/output?label=LAST%20SYNCED&style=flat-square&color=00FF41&labelColor=0D1117&logo=github" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keshavjha005/keshavjha005/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keshavjha005/keshavjha005/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/keshavjha005/keshavjha005/output/github-snake.svg" />
+</picture>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
