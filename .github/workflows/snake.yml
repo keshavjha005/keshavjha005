@@ -12,8 +12,22 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v4
+
+      - name: Stamp snake date range
+        run: |
+          FROM=$(date -u -d '1 year ago +1 day' '+%d %b %Y')
+          TO=$(date -u '+%d %b %Y')
+          sed -i -E "s|(<!--SNAKE_RANGE-->).*(<!--/SNAKE_RANGE-->)|\1${FROM}  →  ${TO}\2|" README.md
+          if ! git diff --quiet README.md; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: update snake date range [skip ci]"
+            git push
+          fi
 
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
@@ -25,11 +39,17 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # NEW ↓ — builds the 6-month graph into the same dist/ folder
+      - name: Generate 6-month graph
+        run: |
+          mkdir -p dist
+          python3 scripts/contrib_graph.py ${{ github.repository_owner }} dist/github-contrib-6mo.svg
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "chore: update snake animation"
+          commit_message: "chore: update snake + contribution graph"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
