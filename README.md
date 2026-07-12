@@ -166,7 +166,8 @@ const keshav = {
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=keshavjha005&custom_title=Contribution%20Graph&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=006D32&title_color=00FF41&hide_border=false&border_color=00FF41" />
+<!-- ✅ NEW — self-generated, 6 months, month labels -->
+<img width="98%" src="https://raw.githubusercontent.com/keshavjha005/keshavjha005/output/github-contrib-6mo.svg" alt="6-month contribution graph" />
 
 </div>
 
