@@ -1,166 +1,260 @@
-<!-- Beautiful GitHub README for keshavjha005 -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                    KESHAV JHA · github.com/keshavjha005                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Keshav+Jha;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:006D32,100:00FF41&height=200&section=header&text=Keshav%20Jha&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%20%E2%80%A2%20%20AI%20Enthusiast%20%20%E2%80%A2%20%20Automation%20Builder&descAlignY=53&descSize=16" width="100%" alt="header" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-10,131-blue?style=flat" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=720&height=48&lines=root%40keshav%3A~%24+whoami;%3E+Full-Stack+Developer+%7C+MERN+%2B+Next.js+%2B+Django;%3E+AI+%26+Automation+Enthusiast;%3E+Open+Source+Contributor;%3E+Always+learning.+Always+shipping." alt="typing" />
+</div>
 
-<h3 align="center">🚀 A passionate Web Developer from India</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/keshavjha005" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio-keshav-eight.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=0D1117" /></a>
+  <a href="https://hashnode.com/@keshavBlog" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://topmate.io/keshavjha005" target="_blank"><img src="https://img.shields.io/badge/Topmate-FF6F61?style=for-the-badge&logo=topmate&logoColor=white" /></a>
+  <a href="https://author.envato.com/profile/onboarding" target="_blank"><img src="https://img.shields.io/badge/Envato-82B541?style=for-the-badge&logo=envato&logoColor=white" /></a>
+  <a href="https://www.buymeacoffee.com/jharajiv92n" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" /></a>
+</div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/112645121/213100923-5b225bd3-b2eb-4e9f-b486-a5f2e7ea1ae9.png" alt="coding" width="400"/>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=keshavjha005&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge&abbreviated=true" />
+  <img src="https://img.shields.io/github/followers/keshavjha005?label=FOLLOWERS&style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-00FF41?style=for-the-badge&labelColor=0D1117" />
+</div>
 
-### 🔗 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/keshavjha005" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
-   <a href="https://topmate.io/keshavjha005" target="_blank">
-    <img src="https://img.shields.io/badge/Topmate-FF6F61?logo=topmate&logoColor=white" />
-  </a>
-  <a href="https://portfolio-keshav-eight.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://hashnode.com/@keshavBlog" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white" />
-  </a>
-  <a href="https://author.envato.com/profile/onboarding" target="_blank">
-    <img src="https://img.shields.io/badge/Envato-82B541?logo=envato&logoColor=white" />
-  </a>
-  <a href="https://www.buymeacoffee.com/jharajiv92n" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF813F?logo=buy-me-a-coffee&logoColor=white" />
-  </a>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+## `$ cat about-me.txt`
 
+<img align="right" width="380" src="https://user-images.githubusercontent.com/112645121/213100923-5b225bd3-b2eb-4e9f-b486-a5f2e7ea1ae9.png" alt="coding" />
 
----
+```js
+const keshav = {
+  location:  "India 🇮🇳",
+  role:      "Full-Stack Developer",
+  obsession: "Clean architecture + AI automation",
 
-## 🛠️ Skills & Tools  
+  stack: {
+    frontend: ["React", "Next.js", "Redux", "TailwindCSS"],
+    backend:  ["Node.js", "Express", "Django"],
+    database: ["MongoDB", "PostgreSQL", "MySQL"],
+    cloud:    ["AWS", "GCP", "Vercel", "CI/CD"],
+    ai:       ["OpenAI API", "LangChain", "n8n", "Prompt Eng."]
+  },
 
-<p align="center">
-<b>📘 CS Fundamentals</b><br/>
-DSA • OS • CN • CRUD • RESTful API • Agile • HLD • LLD • SDLC • A/B testing • SEO
-</p>
+  currentlyBuilding: "AI-powered products & workflow automations",
+  currentlyLearning: "System Design · LLM Agents · Scalable Backends",
+  openTo:            ["Collaboration", "Freelance", "Open Source"],
 
----
+  motto: () => "Break it. Fix it. Ship it. Repeat."
+};
+```
 
-### 💻 Languages  
-<p align="">
-<img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-</p>
+```bash
+┌──(keshav㉿github)-[~]
+└─$ sudo ./launch.sh --mode=build --coffee=∞
+[✔] Frontend  ......... online
+[✔] Backend   ......... online
+[✔] AI Agents ......... online
+[✔] Bugs      ......... "features", actually
+```
 
----
+<br clear="right" />
 
-### 🎨 Frontend  
-<p align="">
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" />
-<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/UI%2FUX-FF4088?logo=figma&logoColor=white" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
----
+## `$ ls -la ./tech-stack`
 
-### ⚙️ Backend  
-<p align="">
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-black?logo=jsonwebtokens&logoColor=white" />
-</p>
+<div align="center">
 
----
+**`📘 CS FUNDAMENTALS`**
 
-### 🗄️ Database  
-<p align="">
-  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/NoSQL-FF6C37?logo=nosql&logoColor=white" />
-</p>
+`DSA` • `OS` • `CN` • `RESTful API` • `HLD` • `LLD` • `SDLC` • `Agile` • `A/B Testing` • `SEO`
 
----
+<br/>
 
-### 🧪 Testing  
-<p align="">
-<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-</p>
+**`💻 LANGUAGES`**
 
----
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-### 🛠️ Tools  
-<p align="">
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-4B32C3?logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Bubble.io-1E1E1E?logo=bubble&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Analytics-E37400?logo=google-analytics&logoColor=white" />
-<img src="https://img.shields.io/badge/CRM-0078D4?logo=microsoft-dynamics&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" />
-</p>
+<br/>
 
----
+**`🎨 FRONTEND`**
 
-## 🔥 GitHub Stats  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshavjha005&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=keshavjha005&theme=tokyonight&cache_seconds=1800" height="160"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshavjha005&theme=tokyo-night&cache_seconds=1800" />
-</p>
+**`⚙️ BACKEND`**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keshavjha005&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
----
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
+<br/>
 
+**`🤖 AI · ML · AUTOMATION`**
 
-## ☕ Support & Motivation  
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-00FF41?style=for-the-badge&logo=probot&logoColor=0D1117" />
 
-<table align="center">
+<br/>
+
+**`🗄️ DATABASE`**
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+<br/>
+
+**`🧪 TESTING`**
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+<br/>
+
+**`🛠️ TOOLS & CLOUD`**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## `$ ./featured-projects.sh --list`
+
+<div align="center">
+
+| 🚀 Project | 🧠 Stack | 📄 Description | 🔗 Links |
+|:---|:---|:---|:---|
+| **Project One** | `Next.js` `Node` `MongoDB` | One-line pitch of what it does and why it's cool. | [Repo](#) · [Live](#) |
+| **Project Two** | `Django` `PostgreSQL` `AWS` | One-line pitch of what it does and why it's cool. | [Repo](#) · [Live](#) |
+| **Project Three** | `React` `OpenAI` `LangChain` | AI-powered tool that does something genuinely useful. | [Repo](#) · [Live](#) |
+| **Project Four** | `n8n` `Python` `APIs` | Automation pipeline that saves N hours a week. | [Repo](#) · [Live](#) |
+
+</div>
+
+> **`[!]`** *Swap these four rows with your real repos — this table is what recruiters actually read.*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## `$ git log --stat --graph`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=keshavjha005&show_icons=true&count_private=true&rank_icon=github&hide_border=false&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&border_color=00FF41&cache_seconds=1800" />
+<img height="170" src="https://streak-stats.demolab.com?user=keshavjha005&hide_border=false&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=00FF41" />
+
+<br/><br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavjha005&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00FF41" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=keshavjha005&custom_title=Contribution%20Graph&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=006D32&title_color=00FF41&hide_border=false&border_color=00FF41" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=keshavjha005&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keshavjha005/keshavjha005/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keshavjha005/keshavjha005/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/keshavjha005/keshavjha005/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+> **`[!]`** *The snake only appears after you add `.github/workflows/snake.yml` (provided alongside this README) and run the action once.*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## `$ curl -X GET /connect`
+
+<div align="center">
+
+```bash
+> Open to: Freelance · Collaboration · Open Source · Mentorship
+> Response time: usually < 24h
+```
+
+<a href="https://www.linkedin.com/in/keshavjha005" target="_blank"><img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://topmate.io/keshavjha005" target="_blank"><img src="https://img.shields.io/badge/Book%20a%20Call-FF6F61?style=for-the-badge&logo=topmate&logoColor=white" /></a>
+<a href="https://portfolio-keshav-eight.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/See%20My%20Work-00FF41?style=for-the-badge&logo=vercel&logoColor=0D1117" /></a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## `$ sudo apt install coffee`
+
+<div align="center">
+<table>
 <tr>
 <td align="center" width="50%">
-  
-  <h3>☕ Buy Me a Coffee</h3>
+  <h3>☕ Fuel the Build</h3>
   <a href="https://buymeacoffee.com/jharajiv92n" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48" alt="Buy Me A Coffee" />
   </a>
   <br/><br/>
-  <img src="https://drive.google.com/uc?export=view&id=1kp4gjn7uDDq3OKDwz8A94bWATDb5wRpV" alt="Scan QR" width="200"/>
-  
+  <img src="https://drive.google.com/uc?export=view&id=1kp4gjn7uDDq3OKDwz8A94bWATDb5wRpV" alt="Scan to support" width="180"/>
 </td>
 <td align="center" width="50%">
-  
-  <h3>💥 Keep exploring, keep building! 💥</h3>
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
-  
+  <h3>💥 Keep exploring, keep building 💥</h3>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280">
 </td>
 </tr>
 </table>
+</div>
+
+<div align="center">
+
+```
+"First, solve the problem. Then, write the code."  — John Johnson
+```
+
+⭐ **If any of my repos helped you, drop a star — it genuinely helps.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:006D32,100:0D1117&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
