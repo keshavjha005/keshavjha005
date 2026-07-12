@@ -232,7 +232,7 @@ const keshav = {
 <div align="center">
 
 ```
-"First, solve the problem. Then, write the code."  — John Johnson
+""Code with purpose. Learn continuously. Ship confidently.""  
 ```
 
 ⭐ **If any of my repos helped you, drop a star — it genuinely helps.**
