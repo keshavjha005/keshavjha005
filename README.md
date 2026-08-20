@@ -159,9 +159,7 @@ const keshav = {
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=keshavjha005&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00FF41" />
 
-<br/><br/>
 
 <!-- ✅ NEW — self-generated, 6 months, month labels -->
 <img width="98%" src="https://raw.githubusercontent.com/keshavjha005/keshavjha005/output/github-contrib-6mo.svg" alt="6-month contribution graph" />
