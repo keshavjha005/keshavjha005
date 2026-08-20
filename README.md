@@ -154,7 +154,7 @@ const keshav = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=keshavjha005&show_icons=true&count_private=true&rank_icon=github&hide_border=false&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&border_color=00FF41&cache_seconds=1800" />
+
 <img height="170" src="https://streak-stats.demolab.com?user=keshavjha005&hide_border=false&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=00FF41" />
 
 <br/><br/>
