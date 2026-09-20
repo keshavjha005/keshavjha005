@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
-"""6-month contribution graph -> SVG. Weekly buckets, matrix-green, month labels."""
+"""Year-to-date contribution graph -> SVG. Jan 1 -> today, weekly buckets, matrix-green."""
 import re, sys, datetime, urllib.request
 
-USER  = sys.argv[1] if len(sys.argv) > 1 else "keshavjha005"
-OUT   = sys.argv[2] if len(sys.argv) > 2 else "dist/github-contrib-6mo.svg"
-WEEKS = 26  # ~6 months
+USER = sys.argv[1] if len(sys.argv) > 1 else "keshavjha005"
+OUT  = sys.argv[2] if len(sys.argv) > 2 else "dist/github-contrib-6mo.svg"
 
-req = urllib.request.Request(f"https://github.com/users/{USER}/contributions",
-                             headers={"User-Agent": "Mozilla/5.0"})
+today = datetime.date.today()
+YEAR  = today.year
+# Explicit calendar-year range so GitHub returns Jan data even past the 365-day default
+url = f"https://github.com/users/{USER}/contributions?from={YEAR}-01-01&to={YEAR}-12-31"
+req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
 html = urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "replace")
 
 ids = dict(re.findall(r'data-date="(\d{4}-\d{2}-\d{2})"\s+id="(contribution-day-component-\d+-\d+)"', html))
@@ -22,14 +24,17 @@ for cid, text in tips:
 if not daily:
     sys.exit("ERROR: parsed 0 days")
 
-today = datetime.date.today()
-end   = today - datetime.timedelta(days=(today.weekday() + 1) % 7)
-start = end - datetime.timedelta(weeks=WEEKS - 1)
-
+# --- year-to-date window: anchored at Jan 1, complete 7-day weeks only ---
+first = datetime.date(YEAR, 1, 1)
 series = []
-for w in range(WEEKS):
-    ws = start + datetime.timedelta(weeks=w)
-    series.append((ws, sum(daily.get((ws + datetime.timedelta(days=i)).isoformat(), 0) for i in range(7))))
+ws = first
+while ws + datetime.timedelta(days=6) <= today:
+    tot = sum(daily.get((ws + datetime.timedelta(days=i)).isoformat(), 0) for i in range(7))
+    series.append((ws, tot))
+    ws += datetime.timedelta(weeks=1)
+if not series:
+    series = [(first, sum(daily.get((first + datetime.timedelta(days=i)).isoformat(), 0) for i in range(7)))]
+last = series[-1][0]
 
 total = sum(v for _, v in series)
 W, H = 1000, 300
@@ -37,7 +42,7 @@ L, R, T, B = 60, 26, 58, 48
 pw, ph = W - L - R, H - T - B
 ymax = -(-max(max(v for _, v in series), 1) // 50) * 50
 
-Xf = lambda i: L + pw * i / (len(series) - 1)
+Xf = lambda i: L + pw * i / (len(series) - 1) if len(series) > 1 else L + pw / 2
 Yf = lambda v: T + ph - ph * v / ymax
 pts  = [(Xf(i), Yf(v)) for i, (_, v) in enumerate(series)]
 line = " ".join(f"{x:.1f},{y:.1f}" for x, y in pts)
@@ -50,7 +55,7 @@ s = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox=
  f'<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="6" fill="#0D1117" stroke="#00FF41" stroke-width="1.5"/>',
  f'<text x="{W/2}" y="27" fill="#00FF41" font-size="16" font-weight="700" text-anchor="middle">Contribution Graph</text>',
  f'<text x="{W/2}" y="45" fill="#8B949E" font-size="11" text-anchor="middle">'
- f'Last 6 Months &#183; weekly &#183; {start.strftime("%b %Y")} &#8594; {today.strftime("%b %Y")}</text>']
+ f'{YEAR} Year to Date &#183; weekly &#183; Jan {YEAR} &#8594; {today.strftime("%b %Y")}</text>']
 
 for k in range(5):
     v = ymax * k / 4; y = Yf(v)
@@ -61,18 +66,18 @@ seen = set()
 for i, (d, _) in enumerate(series):
     if d.month not in seen:
         seen.add(d.month); x = Xf(i)
-        if i: s.append(f'<line x1="{x:.1f}" y1="{T}" x2="{x:.1f}" y2="{T+ph}" stroke="#00FF41" stroke-opacity=".20"/>')
+        if i: s.append(f'<line x1="{x:.1f}" y1="{T}" x2="{x:.1f}" y2="{T+ph}" stroke="#00FF41" stroke-opacity=".18"/>')
         s.append(f'<text x="{x+4:.1f}" y="{T+ph+21}" fill="#00FF41" font-size="12" font-weight="600">{d.strftime("%b")}</text>')
 
 s.append(f'<polygon points="{area}" fill="url(#g)"/>')
 s.append(f'<polyline points="{line}" fill="none" stroke="#00FF41" stroke-width="2.2" stroke-linejoin="round"/>')
 for x, y in pts:
-    s.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3.2" fill="#FFFFFF"/>')
+    s.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" fill="#FFFFFF"/>')
 
 pi = max(range(len(series)), key=lambda i: series[i][1])
 s.append(f'<text x="{Xf(pi):.1f}" y="{Yf(series[pi][1])-11:.1f}" fill="#FFFFFF" font-size="11" font-weight="700" text-anchor="middle">{series[pi][1]}</text>')
 s.append(f'<text x="{L}" y="{H-13}" fill="#8B949E" font-size="11">Weekly contributions</text>')
-s.append(f'<text x="{L+pw}" y="{H-13}" fill="#00FF41" font-size="11" font-weight="600" text-anchor="end">{total} contributions in 6 months</text>')
+s.append(f'<text x="{L+pw}" y="{H-13}" fill="#00FF41" font-size="11" font-weight="600" text-anchor="end">{total} contributions in {YEAR}</text>')
 s.append('</svg>')
 open(OUT, "w").write("\n".join(s))
-print(f"wrote {OUT} | {start} -> {today} | {total} contributions")
+print(f"wrote {OUT} | {first} -> {today} | {total} contributions")
